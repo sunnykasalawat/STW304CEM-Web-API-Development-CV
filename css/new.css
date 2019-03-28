@@ -1,0 +1,35 @@
+
+
+
+
+.pic{ 
+        margin:30px 0 0 0; 
+        width:30%;
+        height:40%;
+        
+          }
+h1 { 
+        margin: 0 0 16px 0; 
+        padding: 0 0 16px 0; 
+        font-size: 48px; 
+        font-weight: bold; 
+        letter-spacing: -2px; 
+        border-bottom: 1px solid #999; 
+}
+
+
+p { 
+        margin: 0 0 20px 0; 
+        font-family: Georgia; }
+a { 
+        color: #999; 
+        text-decoration: none; 
+        border-bottom: 2px dotted #999; }
+a:hover { 
+        border-bottom-style: solid; 
+        color: black; 
+}
+
+
+
+
